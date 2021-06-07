@@ -50,8 +50,7 @@ module.exports = {
   resolve: {
     extensions: ['.js', '.json'],
   },
-  externals: {
-  },
+  externals: {},
   plugins: [
     new webpack.DefinePlugin({
       process: {

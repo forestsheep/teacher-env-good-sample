@@ -63,6 +63,7 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
-    "@babel/runtime-corejs3": "^7.12.5"
+    "@babel/runtime-corejs3": "^7.12.5",
+    "jquery": "^3.6.0"
   }
 }

@@ -5,7 +5,9 @@
     "yarn.lock": true
   },
   "editor.formatOnSave": true,
-  "eslint.validate": ["javascript"],
+  "eslint.validate": [
+    "javascript"
+  ],
   "less.validate": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.stylelint": true,
