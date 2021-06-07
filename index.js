@@ -1,4 +1,3 @@
-
 // Send bar to point of click
 $(".progress-bar").on("click", function(e) {
     var offset = $(this).offset(),
@@ -14,5 +13,3 @@ $(".progress-bar").on("click", function(e) {
         $(this).css('-webkit-transform','translateX('+Math.random()*100+'%)');
       });
   });
-  
-  
